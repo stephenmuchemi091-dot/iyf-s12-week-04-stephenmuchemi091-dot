@@ -512,16 +512,15 @@ for (const [subject, score] of Object.entries(grades)){
         }
     }; 
           // Test Data   
-            gradeTracker.addStudent("Esther", { math: 85, english: 90, science: 78 });
-            gradeTracker.addStudent("Barbara", { math: 92, english: 88, science: 95 });
+            gradeTracker.addStudent("Alice", { math: 85, english: 90, science: 78 });
+            gradeTracker.addStudent("Bob", { math: 92, english: 88, science: 95 });
             gradeTracker.addStudent("Charlie", { math: 78, english: 82, science: 70 });
-            gradeTracker.addStudent("Derrick", { math: 95, english: 92, science: 88 });
-            gradeTracker.addStudent("Eva", { math: 55, english: 60, science: 50 });
+            
         
           // Console Logs
-            console.log(gradeTracker.getStudentAverage("Esther").toFixed(2));
+            console.log(gradeTracker.getStudentAverage("Alice").toFixed(2));
             console.log(gradeTracker.getSubjectAverage("math").toFixed(2));
             console.log(gradeTracker.getTopStudent().name);
             console.log(gradeTracker.getStrugglingStudents().map(s => s.name));
             console.log(gradeTracker.getLetterGrade(95.67));
-            console.log(gradeTracker.generateReportCard("Derrick"));
+            console.log(gradeTracker.generateReportCard("Charlie"));
