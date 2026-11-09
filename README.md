@@ -5,7 +5,7 @@ iyf-s12-week-04-stephenmuchemi091-dot
 
 ## Live Demo
 Open the page and check the browser console (F12):  
-[https://carlosadenge.github.io/iyf-s12-week-04-carlosadenge](https://carlosadenge.github.io/iyf-s12-week-04-carlosadenge)
+[https://stephenmuchemi091-dot.github.io/iyf-s12-week-04-stephenmuchemi091](https://stephenmuchemi091-dot.github.io/iyf-s12-week-04-stephenmuchemi091-dot)
 
 ## About This Project
 This repository contains my Week 4 JavaScript practice for the IYF Weekend Academy Season 12.
