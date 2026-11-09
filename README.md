@@ -8,7 +8,7 @@ Open the page and check the browser console (F12):
 [https://stephenmuchemi091-dot.github.io/iyf-s12-week-04-stephenmuchemi091](https://stephenmuchemi091-dot.github.io/iyf-s12-week-04-stephenmuchemi091-dot)
 
 ## About This Project
-This repository contains my Week 4 JavaScript practice for the IYF Weekend Academy Season 12.
+This repository contains my Week 4 JavaScript practice.
 
 I practiced:
 - Variables and data types
